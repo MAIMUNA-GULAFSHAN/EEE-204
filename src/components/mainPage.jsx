@@ -82,7 +82,7 @@ const MainPage = () => {
                   {/* Badge */}
                   <div className="inline-block">
                     <span className="bg-yellow-400 text-black px-4 py-2 rounded-lg text-sm font-semibold">
-                      SEO & Marketing Agency
+                      SEO and gnit agency
                     </span>
                   </div>
                   
